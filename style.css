@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: darkcyan;
+    margin: 15px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+a {
+   text-decoration: none; 
+   font-size: 20px;
+   color: white;
+   background-color: chocolate;
+   border-radius: 15px;
+   padding: 10px;
+   margin: 10px;
+   box-shadow: 5px 5px 5px 0 #9F5F60;
+}
+
+p {
+    font-size: 20px;
+}
+
+#sh {
+    background-color:rgb(121, 49, 23);
+    box-shadow: 5px 5px 5px 0 #663334;
+}
